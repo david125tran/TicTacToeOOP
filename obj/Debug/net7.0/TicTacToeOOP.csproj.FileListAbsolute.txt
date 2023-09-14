@@ -1,0 +1,15 @@
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\bin\Debug\net7.0\TicTacToeOOP.exe
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\bin\Debug\net7.0\TicTacToeOOP.deps.json
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\bin\Debug\net7.0\TicTacToeOOP.runtimeconfig.json
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\bin\Debug\net7.0\TicTacToeOOP.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\bin\Debug\net7.0\TicTacToeOOP.pdb
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.csproj.AssemblyReference.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.AssemblyInfoInputs.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.AssemblyInfo.cs
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.csproj.CoreCompileInputs.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\refint\TicTacToeOOP.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.pdb
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\TicTacToeOOP.genruntimeconfig.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Projects\TicTacToeOOP\obj\Debug\net7.0\ref\TicTacToeOOP.dll
